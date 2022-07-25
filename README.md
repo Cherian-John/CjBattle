@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Frond end as well as back end development
 - 🌱 I’m currently learning ...Full Stack Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ig:__c___j__
+- 📫 How to reach me ...ig:https://instagram.com/__c___j_?igshid=YmMyMTA2M2Y=
 - linkden:https://www.linkedin.com/in/cherian-john-295444237
 
 <!---
