@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CjBattle
+- 👋 Hi, I’m @Cherian John
 - 👀 I’m interested in ...Frond end as well as back end development
 - 🌱 I’m currently learning ...Full Stack Development
 - 💞️ I’m looking to collaborate on ...
